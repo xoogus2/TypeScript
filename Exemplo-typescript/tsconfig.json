@@ -1,0 +1,16 @@
+{
+    "compilerOpitions":{
+        "target":"ES6",
+        "module":"comonjs",
+        "outDir":"./dir",
+        "rootDir":"./src",
+        "strict":true,
+        "esModuleInterop": true
+    },
+    "include": [
+        "src/**/*.ts"
+    ],
+    "exclude":[
+        "node_modules"
+    ]
+}
